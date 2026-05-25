@@ -10,7 +10,17 @@ A lightweight React library for managing `<head>` elements declaratively in Reac
 npm install react-seo-head
 ```
 
+```bash
+pnpm add react-seo-head
+```
+
+```bash
+yarn add react-seo-head
+```
+
 > `react` and `react-dom` are peer dependencies, so they must also be installed in your app.
+
+
 
 ## Usage
 
@@ -214,3 +224,14 @@ import type { SEOHeadProps, MetaTag, LinkTag, IconTag, ScriptTag } from "react-s
 ## License
 
 MIT
+
+## Keywords
+
+- react
+- seo
+- head
+- meta
+- open-graph
+- json-ld
+- ssr
+- react-head
